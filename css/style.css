@@ -221,7 +221,7 @@ button {
 }
 
 .theme_bg {
-     background: #38c8a8;
+     background: #3B29D3;
 }
 
 .margin_top_30 {
@@ -306,7 +306,7 @@ button {
 }
 
 .sign_btn a:hover {
-     color: #0aec98;
+     color: #3B29D3;
 }
 
 
@@ -363,7 +363,7 @@ button {
 
 .text-bg span {
      font-family: 'Baloo Chettan', cursive;
-     color: #2bcc91;
+     color: #3B29D3;
      font-size: 40px;
      line-height: 77px;
      font-weight: bold;
@@ -385,7 +385,7 @@ button {
 }
 
 .text-bg a:hover {
-     background-color: #2bcc91;
+     background-color: #3B29D3;
      color: #fff;
      transition: ease-in all 0.5s;
      border-radius: 26px;
@@ -393,7 +393,7 @@ button {
 
 .text-img {
      height: 750px;
-     background: linear-gradient(to bottom, #0aec98 0%, #2bcc91 100%);
+     background: linear-gradient(to bottom, #3B29D3 0%, #3B29D3 100%);
      border-radius: 322px 0px 0px 380px;
      padding: 132px 20px 0px 50px;
 }
@@ -420,7 +420,7 @@ button {
     color: #fff;
 padding: 7px 12px;
 font-size: 21px;
-    border: #2bcc91 solid 7px;}
+    border: #3B29D3 solid 7px;}
 
 
 
@@ -516,7 +516,7 @@ font-size: 21px;
 
 .best_box {
      text-align: center;
-     background-color: #2bcc91;
+     background-color: #3B29D3;
      border-radius: 20px;
      padding: 30px 20px;
      margin-bottom: 30px;
@@ -548,7 +548,7 @@ font-size: 21px;
 }
 
 .best .read_more:hover {
-     background-color: #2bcc91;
+     background-color: #3B29D3;
 }
 
 
@@ -624,7 +624,7 @@ font-size: 21px;
 }
 
 .request .main_form .send_btn:hover {
-     background-color: #2bcc91;
+     background-color: #3B29D3;
      transition: ease-in all 0.5s;
      color: #fff;
      border-radius: 26px;
@@ -669,7 +669,7 @@ font-size: 21px;
 /** two_box section section **/
 
 .two_box {
-     background: #2bcc91;
+     background: #3B29D3;
      margin-top: 90px;
      padding: 0 40px;
 }
@@ -738,7 +738,7 @@ font-size: 21px;
 
 .testimonial_Carousel .test_box h3 {
      font-size: 30px;
-     color: #2bcc91;
+     color: #3B29D3;
      line-height: 32px;
      display: inline-block;
      padding-bottom: 40px;
@@ -758,7 +758,7 @@ font-size: 21px;
 .testimonial_Carousel .carousel-indicators li {
      width: 15px;
      height: 13px;
-     background: #41c365;
+     background: #3B29D3;
 }
 
 .testimonial_Carousel .carousel-indicators li.active {
@@ -777,7 +777,7 @@ font-size: 21px;
 /** footer **/
 
 .multi {
-     color: #2bcc91;
+     color: #3B29D3;
      font-weight: bold;
      font-size: 40px;
 }
@@ -825,7 +825,7 @@ font-size: 21px;
 }
 
 .copyright a:hover {
-     color: #2bcc91;
+     color: #3B29D3;
 }
 
 
